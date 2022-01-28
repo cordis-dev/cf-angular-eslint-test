@@ -1,0 +1,5 @@
+@Component()
+class Test {
+  ngDoBootstrap() {}
+  ~~~~~~~~~~~~~
+}
