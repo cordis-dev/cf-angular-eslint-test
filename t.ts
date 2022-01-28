@@ -1,5 +1,4 @@
 @Component()
 class Test {
   ngDoBootstrap() {}
-  ~~~~~~~~~~~~~
 }
