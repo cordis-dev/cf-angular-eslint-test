@@ -9,9 +9,6 @@
   "rules": {
     "@angular-eslint/contextual-lifecycle": [
       "error"
-    ],
-    "@angular-eslint/template/no-duplicate-attributes": [
-      "error"
-    ]      
+    ]  
   }
 }
